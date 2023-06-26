@@ -2,7 +2,7 @@
 
 **`Full Stack Web Developer`**
 
-I'm a dedicated full stack web developer with a deep passion for coding. I find joy in solving difficult challenges, continuously learning, and bringing ideas to life. Driven by a relentless curiosity, I embrace the ever-evolving nature of web development and constantly seek out new technologies and best practices to enhance my skills and deliver exceptional results
+I'm a dedicated full stack web developer with a deep passion for coding. I find joy in solving difficult challenges, continuously learning, and bringing ideas to life. Driven by a relentless curiosity, I embrace the ever-evolving nature of web development and constantly seek out new technologies and best practices to enhance my skills and deliver exceptional results.
 
 ---
 
