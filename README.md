@@ -25,7 +25,6 @@ I'm a dedicated full stack web developer with a deep passion for coding. I find 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-#
 
 <!--
 **eshelton328/eshelton328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
