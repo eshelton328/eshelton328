@@ -21,6 +21,14 @@ I'm a dedicated engineer with a deep passion for learning. I love working throug
 <br />
 
 #
+<br/>
+🔭 I’m currently working on building my portfolio
+<br/>
+🌱 I’m currently learning the fundamentals of electronics and have been playing around with arduinos
+<br/>
+⚡ Fun fact: 
+<br/>
+📫 How to reach me: message me on <a href="https://www.linkedin.com/in/erik-shelton/" target="_blank">linkedIn</a>!
 
 <!--
 **eshelton328/eshelton328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
