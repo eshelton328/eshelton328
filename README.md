@@ -8,7 +8,7 @@ I'm a dedicated engineer with a deep passion for learning. I love working throug
 <br/>
 🌱 I’m currently learning the fundamentals of electronics and have been playing around with arduinos
 <br/>
-⚡ Fun fact: 
+⚡ Fun fact: I LOVE spicy food 🌶️
 <br/>
 📫 How to reach me: message me on <a href="https://www.linkedin.com/in/erik-shelton/" target="_blank">linkedIn</a>!
 
